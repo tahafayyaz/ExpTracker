@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @rec_expense.name %>
+</p>
+
+<p>
+  <strong>Frequency:</strong>
+  <%= @rec_expense.frequency %>
+</p>
+
+<p>
+  <strong>Expense:</strong>
+  <%= @rec_expense.expense %>
+</p>
+
+<%= link_to 'Edit', edit_rec_expense_path(@rec_expense) %> |
+<%= link_to 'Back', rec_expenses_path %>

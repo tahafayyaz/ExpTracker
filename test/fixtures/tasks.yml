@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  billable: false
+  start_time: 2018-09-10 11:50:17
+  end_time: 2018-09-10 11:50:17
+  project: one
+
+two:
+  name: MyString
+  billable: false
+  start_time: 2018-09-10 11:50:17
+  end_time: 2018-09-10 11:50:17
+  project: two

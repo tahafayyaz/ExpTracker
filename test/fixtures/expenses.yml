@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  exp_type: MyString
+  amount: 1.5
+  month: 2018-09-10
+  paid: 2018-09-10 11:49:35
+  invoice: one
+
+two:
+  exp_type: MyString
+  amount: 1.5
+  month: 2018-09-10
+  paid: 2018-09-10 11:49:35
+  invoice: two
